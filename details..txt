@@ -1,0 +1,5 @@
+@extendes(layout.master_user)
+@section(content)
+
+
+@endsection
